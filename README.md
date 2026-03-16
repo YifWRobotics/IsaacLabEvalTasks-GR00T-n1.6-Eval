@@ -21,7 +21,7 @@ cd IsaacLab-2.2.0
 ## 1.3. Install GR00T n1.6 and verify
 
 ```bash
-cd IsaacLabEvalTasks/source/isaaclab_eval_tasks
+cd IsaacLabEvalTasks/submodules/Isaac-GR00T-N1.6
 python -m pip install -U pip setuptools wheel ninja packaging
 python -m pip install -e .
 python -m pip uninstall -y flash-attn
