@@ -10,7 +10,7 @@ pip install "isaacsim[all,extscache]==5.0.0" --extra-index-url https://pypi.nvid
 isaacsim
 ```
 
-## 1.2. Install Isaac Lab 5.0.0 and verify
+## 1.2. Install Isaac Lab 2.2.0 and verify
 
 ```bash
 cd IsaacLab-2.2.0
